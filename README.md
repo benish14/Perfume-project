@@ -1,0 +1,1 @@
+This project is a Perfume Shop User Interface built using HTML, CSS, and basic JavaScript. It focuses on providing a clean, modern, and user-friendly interface where users can browse perfumes, view details, and interact with the UI elements like adding items to favorites or a wishlist.
